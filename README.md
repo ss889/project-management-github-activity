@@ -126,15 +126,26 @@ Collaborating on GitHub:
 
 ## Put your items here
 ### Things you understand so far
+ 18-ceph
 1. How to create a new branch
 2. How to switch branches
 3. How to push using gui in vscode
+4. I know how to make an ssh key and add it to GitHub.
+5. I learned all about GITHUB Issues
+6. I learned how to create and name repositories in Github and in Docker.
 ### Things you don't understand about what we are doing / web development.
 1. syncing vs merging
 2. the proccess of resolving merge conflicts
 3. watchtower
+4. What some git commands do. 
+5. I don't understand what exactly a DevOps Engineer does.
+6. I don't know how to fix some merge issues.
 ### Things you want to know next
 1. Kubernetes
 2. Browser dev tools
 3. Authentication
+4. I want to know more about Docker and its functions.
+5. I want to know how what we're learning will be used in web development.
+6. I want to know if it's possible to use the terminals of other IDEs to do git commands.
 main
+
